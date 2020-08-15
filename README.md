@@ -1,2 +1,13 @@
 # sly-cli
-我的开发
+
+## 安装
+
+```
+npm i -g sly-cli
+```
+
+## 使用
+
+```
+sly react
+```
